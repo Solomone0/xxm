@@ -1,3 +1,3 @@
 import os 
 os.system("clear") 
-pritn ("Hi Python") 
+rint("Hi Python") 
