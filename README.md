@@ -1,2 +1,2 @@
 # xxm
-xxm
+pkg install python
